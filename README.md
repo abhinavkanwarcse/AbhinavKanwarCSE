@@ -201,7 +201,7 @@ Software engineering is balanced by creative hobbies that keep my mind agile, en
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img
         src="https://github-readme-stats.vercel.app/api?username=abhinavkanwarcse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9"
         height="180"
@@ -209,18 +209,13 @@ Software engineering is balanced by creative hobbies that keep my mind agile, en
       />
     </td>
     <td align="center">
+      <h3>My Technologies</h3>
       <img
         src="https://skillicons.dev/icons?i=c,html,css&theme=dark"
-        height="100"
-        alt="C, HTML and CSS"
+        height="55"
+        alt="C HTML CSS"
       />
-      <br/>
-      <h3>My Tech Stack</h3>
-      <p>
-        <img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML-Learning-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-Learning-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
+      <p>C&nbsp;&nbsp;&nbsp; HTML&nbsp;&nbsp;&nbsp; CSS</p>
     </td>
   </tr>
 </table>
@@ -234,7 +229,6 @@ Software engineering is balanced by creative hobbies that keep my mind agile, en
     alt="GitHub Contribution Streak"
   />
 </div>
-
 
 ## 💼 Recruiter & Collaborator Profile
 

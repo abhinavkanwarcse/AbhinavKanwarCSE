@@ -196,9 +196,6 @@ Software engineering is balanced by creative hobbies that keep my mind agile, en
 ---
 
 ## 📊 Live GitHub Telemetry
-
-<h2 align="center">📊 Live GitHub Telemetry</h2>
-
 <table align="center">
   <tr>
     <td align="center">

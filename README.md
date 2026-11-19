@@ -32,14 +32,17 @@
   </a>
 </p>
 
-</div>
 <div align="center">
-  <img src="https://github.com/abhinavkanwarcse/gif/blob/main/AnimatedNeonAKLogoReveal-ezgif.com-loop-count.gif"
-       <style>
-        position=absoulte;
-        left=0px;
-      </style>;
-       alt="3D AK animated logo"/>
+  <img
+    src="https://github.com/abhinavkanwarcse/gif/blob/main/AnimatedNeonAKLogoReveal-ezgif.com-loop-count.gif"
+    alt="3D AK animated logo"
+    style="
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      width: 120px;
+    "
+  />
 </div>
 
 ## ⚡ Executive Summary & Identity

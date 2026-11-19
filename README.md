@@ -196,26 +196,13 @@ Software engineering is balanced by creative hobbies that keep my mind agile, en
 ---
 
 ## 📊 Live GitHub Telemetry
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=abhinavkanwarcse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9"
-        height="180"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center">
-      <h3>My Technologies</h3>
-      <img
-        src="https://skillicons.dev/icons?i=c,html,css&theme=dark"
-        height="55"
-        alt="C HTML CSS"
-      />
-      <p>C&nbsp;&nbsp;&nbsp; HTML&nbsp;&nbsp;&nbsp; CSS</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhinavkanwarcse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9"
+    height="180"
+    alt="GitHub Stats"
+  />
+</div>
 
 <h2 align="center">🔥 Contribution Streak</h2>
 

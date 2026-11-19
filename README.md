@@ -38,7 +38,8 @@
     alt="3D AK animated logo"
     style="
       position: absolute;
-      top:px;
+      margin=0px;
+      top:0px;
       left: 10px;
       width: 120px;
     "

@@ -32,13 +32,13 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <img
     src="https://github.com/abhinavkanwarcse/gif/blob/main/AnimatedNeonAKLogoReveal-ezgif.com-loop-count.gif"
     alt="3D AK animated logo"
     style="
       position: absolute;
-      top: 10px;
+      top:px;
       left: 10px;
       width: 120px;
     "

@@ -34,8 +34,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 
@@ -51,7 +49,6 @@
 
 </div>
 
----
 
 ## ⚡ Executive Summary & Identity
 
@@ -59,7 +56,6 @@ I am a **Computer Science Engineering student** at **IIIT Naya Raipur**, explori
 
 I believe engineering is learned best by building: writing code, testing edge cases, breaking logic, and reconstructing it better. My focus is on developing strong problem-solving fundamentals through **C** and **C++**, while crafting responsive user interfaces with **HTML5**, **CSS3**, and **JavaScript**.
 
-```yaml
 Name:        Abhinav Kanwar
 Initials:    AK
 University:  IIIT Naya Raipur (International Institute of Information Technology)

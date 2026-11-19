@@ -217,30 +217,29 @@ Software engineering is balanced by creative hobbies that keep my mind agile, en
 ## 💼 Recruiter & Collaborator Profile
 
 If you are an engineering recruiter, team lead, or fellow student looking for a dedicated, eager-to-learn software engineering talent:
+---
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  RECRUITER QUICK CARD                                                       │
-│                                                                             │
-│  Candidate:    Abhinav Kanwar                                               │
-│  Degree:       B.Tech in Computer Science Engineering                       │
-│  Institution:  IIIT Naya Raipur                                             │
-│  Strengths:    C, C++, HTML5, CSS3, JavaScript (Learning), Fast Learner     │
-│  Resume:       [ Resume PDF: Available Upon Request via Email / LinkedIn ] │
-│  Availability: Academic Projects, Technical Collaborations & Internships   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-<a href="mailto:abhinavkamal889@gmail.com?subject=Opportunity%20Discussion%20-%20Abhinav%20Kanwar">
-  <img src="https://img.shields.io/badge/Contact_Recruiter-168BFF?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact Recruiter" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abhinav-kanwar-3299bb412">
-  <img src="https://img.shields.io/badge/View_LinkedIn_Profile-002855?style=for-the-badge&logo=linkedin&logoColor=35D8FF" alt="LinkedIn Profile" />
-</a>
-
+  <table>
+    <tr>
+      <td align="left">
+<pre>
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│ RECRUITER QUICK CARD                                                    │
+│                                                                         │
+│ Candidate:    Abhinav Kanwar                                            │
+│ Degree:       B.Tech in Computer Science Engineering                    │
+│ Institution:  IIIT Naya Raipur                                          │
+│ Strengths:    C, C++, HTML5, CSS3, JavaScript (Learning), Fast Learner  │
+│ Resume:       [ Resume PDF: Available Upon Request via Email / LinkedIn ] │
+│ Availability: Academic Projects, Technical Collaborations & Internships │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+</pre>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

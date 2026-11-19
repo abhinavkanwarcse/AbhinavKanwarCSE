@@ -34,7 +34,7 @@
 
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhinavkanwarcse/AbhinavKanwarCSE/main/assets/ak-animation.gif"
+  <img src="https://github.com/abhinavkanwarcse/gif/blob/main/Animated%20Neon%20AK%20Logo%20Reveal.gif"
        width="75%"
        alt="3D AK animated logo"/>
 </div>

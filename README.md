@@ -35,7 +35,10 @@
 </div>
 <div align="center">
   <img src="https://github.com/abhinavkanwarcse/gif/blob/main/AnimatedNeonAKLogoReveal-ezgif.com-loop-count.gif"
-       width="100vw"
+       <style>
+        position=absoulte;
+        left=0px;
+      </style>;
        alt="3D AK animated logo"/>
 </div>
 

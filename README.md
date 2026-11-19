@@ -122,25 +122,36 @@ Areas of computing and development that excite me and drive my daily experiments
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  [ ACADNIX ] — Academic Workflow & Student Productivity Suite               │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  A purpose-built digital ecosystem designed to streamline how students      │
-│  organize coursework, access learning materials, manage syllabus milestones,│
-│  and elevate daily academic productivity.                                  │
-│                                                                             │
-│  Key Engineering Facets:                                                    │
-│  • Intuitive, focused layout minimizing academic distraction               │
-│  • Structured curriculum indexing and study resource navigation            │
-│  • Built with clean, accessible semantic web fundamentals                  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Tech Stack:  [ HTML5 ]  •  [ CSS3 ]  •  [ JavaScript (In Development) ]     │
-│  Status:      In Active Development & Iteration                             │
-│  Repository:  [ Repository URL: To be linked upon initial public push ]     │
-│  Live Demo:   [ Deployment Preview: Available in next development phase ]   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+<pre>
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│ [ ACADNIX ] — Academic Workflow & Student Productivity Suite            │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│ A purpose-built digital ecosystem designed to streamline how students   │
+│ organize coursework, access learning materials, manage syllabus         │
+│ milestones, and elevate daily academic productivity.                    │
+│                                                                         │
+│ Key Engineering Facets:                                                 │
+│ • Intuitive, focused layout minimizing academic distraction             │
+│ • Structured curriculum indexing and study resource navigation          │
+│ • Built with clean, accessible semantic web fundamentals                │
+├─────────────────────────────────────────────────────────────────────────┤
+│ Tech Stack:  [ HTML5 ] • [ CSS3 ] • [ JavaScript (In Development) ]     │
+│ Status:      In Active Development & Iteration                          │
+│ Repository:  [ Repository URL: To be linked upon initial public push ]  │
+│ Live Demo:   [ Deployment Preview: Available in next development phase ]│
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+</pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
 

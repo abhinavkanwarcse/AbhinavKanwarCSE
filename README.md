@@ -197,21 +197,37 @@ Software engineering is balanced by creative hobbies that keep my mind agile, en
 
 ## 📊 Live GitHub Telemetry
 
+
+<h2 align="center">📊 Live GitHub Telemetry</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=abhinavkanwarcse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9"
+        height="180"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkanwarcse&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"
+        height="180"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
 <div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavkanwarcse&show_icons=true&hide_border=true&bg_color=080b10&title_color=35d8ff&icon_color=168bff&text_color=9bafc5" width="48%" alt="Abhinav's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkanwarcse&layout=compact&hide_border=true&bg_color=080b10&title_color=35d8ff&text_color=9bafc5" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhinavkanwarcse&theme=tokyonight&hide_border=true&background=080b10&ring=168bff&fire=35d8ff&currStreakLabel=35d8ff" width="98%" alt="GitHub Streak Stats" />
-</p>
-
+  <img
+    src="https://streak-stats.demolab.com?user=abhinavkanwarcse&theme=dark&hide_border=true&background=0D1117&ring=168BFF&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=22D3EE"
+    width="95%"
+    alt="GitHub Contribution Streak"
+  />
 </div>
-
----
 
 ## 💼 Recruiter & Collaborator Profile
 

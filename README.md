@@ -38,16 +38,16 @@
 
 <div align="center">
 
-```
-  █████╗ ██╗  ██╗       ABHINAV KANWAR
- ██╔══██╗██║ ██╔╝   ───────────────────────
- ███████║█████╔╝    CODE. CREATE. INNOVATE.
- ██╔══██║██╔═██╗    IIIT NAYA RAIPUR — CSE
- ██║  ██║██║  ██╗   
- ╚═╝  ╚═╝╚═╝  ╚═╝   
-```
 
-> **Signature Identity Note:** The **AK** visual identity blends deep midnight navy, metallic chrome highlights, and electric cyan illumination (`#168BFF` / `#35D8FF`). When integrating an externally hosted 3D looping GIF, place the verified asset URL directly into the hero frame.
+
+█████╗ ██╗  ██╗       ABHINAV KANWAR
+██╔══██╗██║ ██╔╝   ───────────────────────
+███████║█████╔╝    CODE. CREATE. INNOVATE.
+██╔══██║██╔═██╗    IIIT NAYA RAIPUR — CSE
+██║  ██║██║  ██╗
+
+╚═╝  ╚═╝╚═╝  ╚═╝
+
 
 </div>
 
@@ -55,9 +55,9 @@
 
 ## ⚡ Executive Summary & Identity
 
-I am a passionate **Computer Science Engineering student** at **IIIT Naya Raipur**, exploring the worlds of system-level programming and modern web technologies. 
+I am a **Computer Science Engineering student** at **IIIT Naya Raipur**, exploring system-level programming and modern web technologies.
 
-I believe that engineering is learned best by getting your hands dirty: writing code, testing boundaries, breaking logic, and reconstructing it better. My journey is focused on developing strong problem-solving fundamentals through **C** and **C++**, while crafting responsive user interfaces through **HTML5**, **CSS3**, and **JavaScript**.
+I believe engineering is learned best by building: writing code, testing edge cases, breaking logic, and reconstructing it better. My focus is on developing strong problem-solving fundamentals through **C** and **C++**, while crafting responsive user interfaces with **HTML5**, **CSS3**, and **JavaScript**.
 
 ```yaml
 Name:        Abhinav Kanwar
@@ -67,8 +67,6 @@ Major:       Computer Science Engineering
 Focus:       Problem Solving, Programming Fundamentals, Web Development
 Status:      Student & Active Learner
 Philosophy:  "Learn continuously. Build consistently. Create something meaningful."
-```
-
 ---
 
 ## 🗺️ The Learning Trajectory

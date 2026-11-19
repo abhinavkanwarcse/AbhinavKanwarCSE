@@ -33,22 +33,11 @@
 </p>
 
 </div>
-
 <div align="center">
-
-
-
-█████╗ ██╗  ██╗       ABHINAV KANWAR
-██╔══██╗██║ ██╔╝   ───────────────────────
-███████║█████╔╝    CODE. CREATE. INNOVATE.
-██╔══██║██╔═██╗    IIIT NAYA RAIPUR — CSE
-██║  ██║██║  ██╗
-
-╚═╝  ╚═╝╚═╝  ╚═╝
-
-
+  <img src="https://raw.githubusercontent.com/abhinavkanwarcse/AbhinavKanwarCSE/main/assets/ak-animation.gif"
+       width="75%"
+       alt="3D AK animated logo"/>
 </div>
-
 
 ## ⚡ Executive Summary & Identity
 

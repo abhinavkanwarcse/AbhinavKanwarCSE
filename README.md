@@ -2,10 +2,8 @@
 <img
     src="https://github.com/abhinavkanwarcse/gif/blob/main/AnimatedNeonAKLogoReveal-ezgif.com-loop-count.gif"
     alt="3D AK animated logo" position: absolute;
-      margin=0px;
-      top:0px;
-      left: 10px;
-      width: 120px/>
+      left: 0px;
+      width: 10px/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,30:081326,70:002855,100:168bff&height=220&section=header&text=ABHINAV%20KANWAR&fontSize=50&fontColor=f5f8ff&fontAlignY=38&desc=CODE.%20CREATE.%20INNOVATE.&descSize=19&descAlignY=60&descAlign=50&stroke=168bff&strokeWidth=1" width="100%" alt="Abhinav Kanwar - Code. Create. Innovate." />
 

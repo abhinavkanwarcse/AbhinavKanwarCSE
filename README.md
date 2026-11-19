@@ -295,6 +295,3 @@ Let's discuss technology, collaborate on projects, or connect professionally:
   <br/><br/>
   <sub>© 2026 Abhinav Kanwar. Engineered with precision for GitHub.</sub>
 </p>
-
-</div>
->>>>>>> cd68ee9 (feat: initial release of premium personal developer brand README)

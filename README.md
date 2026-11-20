@@ -70,9 +70,7 @@ A structured look at how I have built my technical base — moving from core com
 
 ---
 
-## 🛠️ Verified Technical Stack
-
-> **Authenticity Guarantee:** Only technologies I have actively studied and practiced are listed. No placeholder frameworks or exaggerated claims.
+## 🛠️ Technical Stack
 
 <div align="center">
 

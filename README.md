@@ -241,7 +241,7 @@ If you are an engineering recruiter, team lead, or fellow student looking for a 
 │ Degree:       B.Tech in Computer Science Engineering                    │
 │ Institution:  IIIT Naya Raipur                                          │
 │ Strengths:    C, C++, HTML5, CSS3, JavaScript (Learning), Fast Learner  │
-│ Resume:       [ Resume PDF: Available Upon Request via Email / LinkedIn ] │
+│ Resume:       [ Resume PDF: Available Upon Request via Email / LinkedIn]|
 │ Availability: Academic Projects, Technical Collaborations & Internships │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘

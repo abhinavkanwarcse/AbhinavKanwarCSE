@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,30:081326,70:002855,100:168bff&height=220&section=header&text=ABHINAV%20KANWAR&fontSize=50&fontColor=f5f8ff&fontAlignY=38&desc=CODE.%20CREATE.%20INNOVATE.&descSize=19&descAlignY=60&descAlign=50&stroke=168bff&strokeWidth=1" width="100%" alt="Abhinav Kanwar - Code. Create. Innovate." />
-
 <br/>
 
 <a href="https://github.com/abhinavkanwarcse">

@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,30:081326,70:002855,100:168bff&height=220&section=header&text=ABHINAV%20KANWAR&fontSize=50&fontColor=f5f8ff&fontAlignY=38&desc=CODE.%20CREATE.%20INNOVATE.&descSize=19&descAlignY=60&descAlign=50&stroke=168bff&strokeWidth=1" width="100%" alt="Abhinav Kanwar - Code. Create. Innovate." />
 <br/>
-
 <a href="https://github.com/abhinavkanwarcse">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1200&color=35D8FF&center=true&vCenter=true&width=720&height=46&lines=Computer+Science+Engineering+%40+IIIT+Naya+Raipur;Programmer+%7C+C+%26+C%2B%2B+Fundamentals;Web+Development+Learner+%7C+Building+Acadnix;Code.+Create.+Innovate." alt="Typing Title Animation" />
 </a>
